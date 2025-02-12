@@ -10,7 +10,7 @@
 pillow 11.1.0
 ## 安装依赖
 
-'''bash
+'''bash\n
 pip install Pillow
 ## 注意事项
 输入图像建议为正方形。
